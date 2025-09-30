@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightMorningBakery", "BrightMorningBakery\BrightMorningBakery.csproj", "{38963290-46F8-4DA4-B5C0-7AB4A4830E85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		About Us.html = About Us.html
+		Contact Us.html = Contact Us.html
+		Gallery.html = Gallery.html
+		index.html = index.html
+		Enquiry.html = Enquiry.html
+		Order.html = Order.html
+		Products and Services.html = Products and Services.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{BC0357B8-FDC6-48ED-AA0D-5304A2ADE96D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\American_chocolate_cake3-square.jpg = ..\..\..\Downloads\American_chocolate_cake3-square.jpg
+		..\..\..\Downloads\best-ever-from-scratch-chocolate-cupcakes-fb-ig-3.webp = ..\..\..\Downloads\best-ever-from-scratch-chocolate-cupcakes-fb-ig-3.webp
+		..\..\..\Downloads\ChatGPT Image Sep 25, 2025, 05_07_49 PM.png = ..\..\..\Downloads\ChatGPT Image Sep 25, 2025, 05_07_49 PM.png
+		..\..\..\Downloads\classic-glazed-doughnuts-featured.jpg = ..\..\..\Downloads\classic-glazed-doughnuts-featured.jpg
+		..\..\..\Downloads\closeup-sweet-pastry-assortment-top-view-sweet-pastry-assortment-top-view-297892050.webp = ..\..\..\Downloads\closeup-sweet-pastry-assortment-top-view-sweet-pastry-assortment-top-view-297892050.webp
+		Gallery.html = Gallery.html
+		..\..\..\Downloads\kinder-crunchy-cookie-no3-5709.jpg = ..\..\..\Downloads\kinder-crunchy-cookie-no3-5709.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38963290-46F8-4DA4-B5C0-7AB4A4830E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38963290-46F8-4DA4-B5C0-7AB4A4830E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38963290-46F8-4DA4-B5C0-7AB4A4830E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38963290-46F8-4DA4-B5C0-7AB4A4830E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7213B083-D788-4A65-B1CC-8C1773D812AB}
+	EndGlobalSection
+EndGlobal
